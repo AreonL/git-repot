@@ -3,11 +3,15 @@ Title: Home
 Description: This is our index page.
 ---
 
-Home page
+Välkommen!
 ==========================
 
-The source for this page is in `content/index.md`.
+Mitt namn är Areon Lundkvist. Jag är en kille från Skåne där jag bor med min flickvänn.
 
-This is a sample home page written in markdown with some frontmatter defined.
+Jag studerar distans kursen för Webbprogramering på BTH.
 
-The pages make up a Anax site for demonstration purpose, it is something to start from.
+Gillar att spela på fritiden, det bästa spelet är Kingdom Hearts franchisen!
+
+<img src="assets/img/skh.jpg" width="200">
+
+<!-- ![Sora, Kingdom Hearts](assets/img/skh.jpg "Sora, Kingdom Hearts" ){width=200px} -->
