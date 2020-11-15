@@ -4,5 +4,11 @@ Tagline: My portfolio.
 Social:
     - title: Link till sidans github repo.
       url: https://github.com/AreonL/git-repot
-      icon: github
+      icon: fab fa-github
+    - title: Link till dbwebb kurser.
+      url: https://dbwebb.se/kurser/
+      icon: fas fa-leaf
+    - title: Link till youtube.
+      url: https://www.youtube.com/
+      icon: fab fa-youtube
 ---
