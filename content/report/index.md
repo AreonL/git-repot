@@ -9,35 +9,35 @@ Redovisningssida för design
 
 <div class="kmom-box">
     <a href="report/kmom01"><h2>Kmom01</h2></a>
-    <p>Något om kursmomentet..</p>
+    <p>Ramverk, innehåll, style</p>
 </div>
 
 <div class="kmom-box">
     <a href="report/kmom02"><h2>Kmom02</h2></a>
-    <p>Något om kursmomentet..</p>
+    <p>SASS och typografi</p>
 </div>
 
 <div class="kmom-box">
     <a href="report/kmom03"><h2>Kmom03</h2></a>
-    <p>Något om kursmomentet..</p>
+    <p>Layout</p>
 </div>
 
 <div class="kmom-box">
     <a href="report/kmom04"><h2>Kmom04</h2></a>
-    <p>Något om kursmomentet..</p>
+    <p>Färg</p>
 </div>
 
 <div class="kmom-box">
     <a href="report/kmom05"><h2>Kmom05</h2></a>
-    <p>Något om kursmomentet..</p>
+    <p>Bild</p>
 </div>
 
 <div class="kmom-box">
     <a href="report/kmom06"><h2>Kmom06</h2></a>
-    <p>Något om kursmomentet..</p>
+    <p>Tillgänglighet och prestanda</p>
 </div>
 
 <div class="kmom-box project">
     <a href="report/kmom10"><h2>Kmom10</h2></a>
-    <p>Något om kursmomentet..</p>
+    <p>Projekt och examination</p>
 </div>
