@@ -6457,13 +6457,6 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
 }
 
-/*
-#008787
-#19ffff
-#00d3d2
-#873200
-#d44e00
-*/
 p,
 a {
   font-size: large;
@@ -6471,14 +6464,14 @@ a {
 
 p {
   margin-bottom: 1em;
-  color: #292929;
+  color: white;
 }
 
 h1,
 h2,
 h3,
 .title p {
-  color: #008787;
+  color: #19ffcd;
 }
 
 h1,
@@ -6497,14 +6490,14 @@ h2 {
 /* Header */
 .site-header {
   flex: 0 0 auto;
-  background-color: #19ffff;
-  color: #292929;
+  background-color: #1c2522;
+  color: white;
   padding: 0 2em;
 }
 
 .site-header a,
 .site-header a:visited {
-  color: #292929;
+  color: white;
   text-decoration: none;
 }
 
@@ -6601,18 +6594,18 @@ h2 {
 /* Footer */
 footer {
   flex: 0 0 auto;
-  background: #00d3d2;
-  color: #292929;
+  background: #1a1d1d;
+  color: white;
 }
 
 footer a {
-  color: #d44e00;
+  color: #fff;
   text-decoration: none;
   font-size: larger;
 }
 
 footer a:hover {
-  color: #873200;
+  color: #d44e00;
 }
 
 footer p {
@@ -6718,7 +6711,7 @@ body {
   max-width: 75%;
   height: 100%;
   margin: auto;
-  background-color: #19ffff;
+  background-color: #1c2522;
 }
 
 @media (max-width: 990px) {
@@ -6739,7 +6732,11 @@ body {
   flex: 1 0 auto;
   padding: 2em;
   margin-bottom: 0;
-  background-color: #fafafa;
+  background-color: #252525;
+}
+
+img {
+  filter: grayscale(40%);
 }
 
 /* Listor */

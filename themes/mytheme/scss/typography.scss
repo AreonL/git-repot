@@ -1,0 +1,33 @@
+p,
+a {
+    font-size: large;
+}
+
+p {
+    margin-bottom: 1em;
+    color: $font-color;
+}
+
+h1,
+h2,
+h3,
+.title p {
+    color: $h1-color;
+}
+
+h1,
+h2 {
+    margin-bottom: 1em;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 1.7em;
+}
+
+.title h1 {
+    margin-bottom: 0;
+}

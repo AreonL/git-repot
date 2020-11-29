@@ -1,0 +1,19 @@
+/* Header */
+
+.site-header {
+    flex: 0 0 auto;
+    background-color: $outer-color;
+    color: $font-color;
+    padding: 0 2em;
+}
+
+.site-header a,
+.site-header a:visited {
+    color: $font-color;
+    text-decoration: none;
+}
+
+.title {
+    float: left;
+    padding-top: 1.5em;
+}

@@ -1,5 +1,5 @@
 @import 'common';
-@import 'variables';
+@import 'variables-dark';
 @import 'typography';
 @import 'header';
 @import '../css/nav';
@@ -47,7 +47,11 @@ body {
     flex: 1 0 auto;
     padding: 2em;
     margin-bottom: 0;
-    background-color: $background-color;
+    background-color: $main-color;
+}
+
+img {
+    filter: grayscale(40%);
 }
 
 .kmom img {

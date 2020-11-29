@@ -23,11 +23,12 @@
     grid-area: 1 / line3 / last-line / 2;
 }
 
+
 @media (max-width: 767px) {
     .sidenav {
         display: none;
     }
-    
+
     .content-report {
         gap: 0;
     }

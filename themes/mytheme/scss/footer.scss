@@ -1,0 +1,36 @@
+/* Footer */
+
+footer {
+    flex: 0 0 auto;
+    background: $inner-color;
+    color: $font-color;
+}
+
+footer a {
+    color: $fav-icon;
+    text-decoration: none;
+    font-size: larger;
+}
+
+footer a:hover {
+    color: $fav-hover;
+}
+
+footer p {
+    margin: 0;
+    padding: 3em 0;
+}
+
+footer .container {
+    padding: 2em;
+}
+
+.social {
+    float: right;
+    padding: 1.5em 0 1.5em 1em;
+    font-size: 2rem;
+}
+
+footer p {
+    padding: 2em 0;
+}
