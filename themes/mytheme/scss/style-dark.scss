@@ -6,6 +6,8 @@
 @import 'footer';
 @import 'report';
 @import 'kmom';
+@import 'gallery';
+
 $robot: 'Roboto',
 sans-serif;
 $os: 'Open Sans',
@@ -26,7 +28,7 @@ body {
     background-color: $outer-color;
 }
 
-@media (max-width: 990px) {
+@media (max-width: 992px) {
     html,
     body {
         max-width: none;
@@ -52,6 +54,7 @@ body {
 
 img {
     filter: grayscale(40%);
+    max-width: 100%;
 }
 
 .kmom img {
