@@ -19,17 +19,33 @@
 }
 
 .kmom {
-    border: 1px solid rgba($color: #000, $alpha: 0.3);
     grid-area: 1 / line3 / last-line / 2;
 }
-
 
 @media (max-width: 767px) {
     .sidenav {
         display: none;
     }
-
+    
     .content-report {
         gap: 0;
     }
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }

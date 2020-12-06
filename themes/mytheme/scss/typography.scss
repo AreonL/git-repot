@@ -8,6 +8,11 @@ p {
     color: $font-color;
 }
 
+a {
+    color: $link-color;
+    text-decoration: none;
+}
+
 h1,
 h2,
 h3,
@@ -28,7 +33,8 @@ h2 {
     font-size: 1.7em;
 }
 
-pre {
+pre,
+li {
     color: $h1-color;
 }
 

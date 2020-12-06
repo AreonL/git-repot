@@ -28,11 +28,11 @@ Resultat
 <br/>
 ![Screenshot of Elgiganten](../content/analysis/img/elgiganten.png)
 **Färgscheme**
-<table style="border-spacing: 4px; border-collapse: separate">
+<table style="border-spacing: 4px; border-collapse: separate;">
     <tr>
-        <td style="height: 50px; width: 50px; background-color: #88d41c">
-        <td style="height: 50px; width: 50px; background-color: #88d000">
-        <td style="height: 50px; width: 50px; background-color: #F5A623">
+        <td style="height: 50px; width: 50px; background-color: #88d41c;">
+        <td style="height: 50px; width: 50px; background-color: #88d000;">
+        <td style="height: 50px; width: 50px; background-color: #f5a623;">
     </tr>
 </table>
 På Elgiganten kan vi se att det använder sig av grön och gul. Färgschemat Analogisk använs på denna sida. Den gröna används sig som huvud färgerna för att fånga uppmärksamheten på vart man kan lägga till i kund vagnen eller gå vidare till mer produkter. Gula färgen avnänds i stjärnorna för betygsättning av produkterna. Elgiganten använder sig av en Analogisk färgshecma. Detta kom jag fram till med användning av ColorZilla, använde verktyget på det gröna området och fick farm färgkoden #88D000. Matade in färgkoden i Adobe Color och fick fram att Analogisk passar best med sidan. Där ser vi den gula färgen som är den accentfärgen för webbsidan.
@@ -46,10 +46,10 @@ Fonten passar in den känslan man får av Elgiganten, det ska vara enkla att fö
 <br/>
 ![Screenshot of Lekia](../content/analysis/img/lekia.png)
 **Färgscheme**
-<table style="border-spacing: 4px; border-collapse: separate">
+<table style="border-spacing: 4px; border-collapse: separate;">
     <tr>
-        <td style="height: 50px; width: 50px; background-color: #ed1c24">
-        <td style="height: 50px; width: 50px; background-color: #2f9f66">
+        <td style="height: 50px; width: 50px; background-color: #ed1c24;">
+        <td style="height: 50px; width: 50px; background-color: #2f9f66;">
     </tr>
 </table>
 På Lekia syns det direkt att det används mycket av det röda och gröna. Lekia använder sig av en Complementary färgschema. Använder mig av ColorZilla använde på meny valen och får #ED1C24 som passar in för Adobe color på Complementary färgschemat. Det gröna, vilket är accentfärgen, används som köp och gå vidare till kassan. Det röda används innom meny valen och priset, samt att det som står ut av loggan är mesta dels röd. Känslan jag får av detta är mycket kaotiskt med det röda, att det ska stå ut mycket. Men när det gröna kommer in så ska det vara så lätt och välkommnande. 
@@ -63,11 +63,11 @@ Fonten för lekias sida används av myriad-pro över hela sidan. Valet av färge
 <br/>
 ![Screenshot of Ica](../content/analysis/img/ica.png)
 **Färgscheme**
-<table style="border-spacing: 4px; border-collapse: separate">
+<table style="border-spacing: 4px; border-collapse: separate;">
     <tr>
-        <td style="height: 50px; width: 50px; background-color: #fcece7">
-        <td style="height: 50px; width: 50px; background-color: #eb1e07">
-        <td style="height: 50px; width: 50px; background-color: #f088b6">
+        <td style="height: 50px; width: 50px; background-color: #fcece7;">
+        <td style="height: 50px; width: 50px; background-color: #eb1e07;">
+        <td style="height: 50px; width: 50px; background-color: #f088b6;">
     </tr>
 </table>
 På Icas webbsida så ser man att färg valen är rött. Det röda används från loggan och används runt med en lägg till i kundvangen knapp. En svagre röd används för en "personlig" meny val och när det kommer till att lägga ifrån sig från korgen. Jag har kommit fram till att den strider lite mot sig sjävl när det kommer till färgschemat, efter som jag får en ljus lila färg när man har musen över olika menyer, som lägg i korgen knapparna. Så färgschemat utan det lila är mer en riktning mot Monochromatic, medans med lila och utan den ljus röda så blir den en Analogous. Detta får jag fram igenom ColorZilla verktyget på logan och då får jag fram färgkoden #EB1E07. Den färgen för Monochromatic passar inte helt in i vad Ica försöker se ut som, det känns för mörkt och lite för mycket i ett, medans Analogous passar bättre in i, mer färg sprit och lite gladare och trevligar att kolla på.
