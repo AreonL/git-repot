@@ -12,6 +12,6 @@ Jag studerar distans kursen för Webbprogramering på BTH.
 
 Gillar att spela på fritiden, det bästa spelet är Kingdom Hearts franchisen!
 
-<img src="assets/img/skh.jpg" width="200">
+<img src="assets/img/skh.jpg" width="200" alt="Sora, Kingdom Hearts">
 
 <!-- ![Sora, Kingdom Hearts](assets/img/skh.jpg "Sora, Kingdom Hearts" ){width=200px} -->
