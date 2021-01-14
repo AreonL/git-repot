@@ -22,3 +22,13 @@ Analysis report
     <p>Design principles</p>
 </div>
 
+<div class="kmom-box">
+    <a href="analysis/10_webbplatsdesign"><h2>Kmom10</h2></a>
+    <p>Webbplatsdesign</p>
+</div>
+
+<div class="kmom-box">
+    <a href="analysis/11_design_och_webbplatser"><h2>Kmom11</h2></a>
+    <p>Design och webbplatser</p>
+</div>
+
